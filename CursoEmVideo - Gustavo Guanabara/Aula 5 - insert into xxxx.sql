@@ -11,3 +11,5 @@ values
 
 select * from pessoas;
 
+drop table pessoas;
+
